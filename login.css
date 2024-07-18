@@ -1,0 +1,49 @@
+.center1{
+    margin-left:43%;
+    
+}
+.center2{
+    margin-left:42.5%;
+    width:200px;
+
+}
+.center3{
+    margin-left:44.5%;
+}
+.center4{
+    margin-left:46.5%;
+}
+.logo{
+    height:60px;
+    width:60px;
+    margin-left:47%;
+    margin-top:40px;
+}
+.dancing-script{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style:normal;
+  color:white;
+}
+.fb{
+    height:30px;
+    width:300px;
+}
+.font{
+    font-size:10px;
+}
+.gp{
+    height:20px;
+    width:20px;
+}
+.a{
+    text-decoration: none; color:white
+}
+.bg{
+    background-image: linear-gradient(rgb(150, 126, 126),rgb(120, 0, 0));
+    size: 100% 100%;
+}
+::placeholder{
+    color:black;
+}

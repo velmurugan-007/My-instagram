@@ -1,0 +1,35 @@
+.center1{
+    margin-left:43%;
+}
+.center2{
+    margin-left:46.5%;
+
+}
+.align{
+    margin-left:30px;
+}
+.logo{
+    height:60px;
+    width:60px;
+    margin-left:47%;
+    margin-top:40px;
+}
+.dancing-script{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style:normal;
+}
+.fb{
+    height:30px;
+    width:300px;
+}
+.font{
+    font-size:10px;
+}
+.bg{
+    background-image: url(./bg15.jpg)
+}
+.a{
+    text-decoration: none; color:white
+}

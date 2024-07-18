@@ -1,0 +1,62 @@
+.logo{
+    font-size: 44px;
+}
+.logo2{
+    padding-left:300px;
+    font-size:44px;
+}
+.logo3{
+    font-size:44px;
+    padding-left:100px;
+}
+.space{
+    padding-left:240px;
+}
+.bio{
+    margin-left:300px;
+}
+.pic{
+    height:100px;
+    width:100px;
+    margin-top:20px;
+    margin-left:380px;
+    float:left;
+}
+.a{
+    float:left;
+}
+.hw{
+    height:60px;
+    width:100px;
+    margin-left: 300px;;
+}
+.prof{
+    height:50px;
+    width:280px;
+}
+.icon{
+    height: 50px;
+    width:50px;
+}
+
+
+.image{
+    filter: grayscale(100%);
+    margin: 0px;
+    border: 10px;
+    box-sizing: border-box;
+}
+.image:hover{
+    transform: scale(1.05);
+    filter: none;
+    border-radius: 30px;
+}
+.qq{
+    height: 700px;
+    width: 1000px;
+}
+.pic2{
+    height:44px;
+    width:44px;
+    margin-left:100px;
+}
